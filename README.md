@@ -1,4 +1,4 @@
-# DevSockHackathonMarch2021
+# DevSocHackathonMarch2021
 Key used for classes and IDs:
 
 Classes:
